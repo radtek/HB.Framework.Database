@@ -10,3 +10,5 @@ HB.Framework.Common is needed, that you can find at my repositories.
 * Support Join
 * Support Table Auto Creation
 * Support Migration
+
+More details comming soon.
